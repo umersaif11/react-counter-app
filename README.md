@@ -5,12 +5,11 @@ A simple interactive counter application built with React and Vite. This project
 ## 🚀 Features
 - **Interactive UI:** Increment and decrement the counter value.
 - **State Management:** Uses React's `useState` hook to manage the counter data.
-- **Constraints:** The counter stops at **20** (Max) and **0** (Min). *(Note: Verify if you implemented the 0-20 limits as per the video)*
+- **Constraints:** The counter stops at **20** (Max) and **0** (Min). 
 
 ## 🛠️ Tech Stack
 - **Library:** React JS
 - **Build Tool:** Vite
-- **Styling:** CSS / Tailwind (whichever you used)
 
 ## 💻 How to Run Locally
 
